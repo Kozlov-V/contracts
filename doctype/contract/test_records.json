@@ -1,0 +1,12 @@
+[
+ {
+  "contract_name": "_Test Contract",
+  "status": "Open",
+  "tasks":[ 
+   {
+	  "title": "_Test Task",
+	  "status": "Open"
+   }
+  ]
+ }
+]

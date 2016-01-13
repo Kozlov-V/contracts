@@ -1,0 +1,1 @@
+Contract details. Contract can be internal or external and can have Tasks, Milestones associated to it.
